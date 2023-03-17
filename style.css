@@ -1,0 +1,16 @@
+*{
+    /* padding: 0;
+    margin: 0;
+    box-sizing: border-box; */
+}
+.interest li,.skills li{
+    color: rgb(75, 24, 25);
+    
+}
+.interest li{
+    color: rgb(232, 41, 44);
+    
+}
+p{
+    font-size: 24px;
+}
